@@ -1,4 +1,4 @@
-# data_analysis_project
+# KCBERT 편향성 관련 연구 프로젝트
 
 ## 간단한 실행 사용 설명서
 1. Anaconda를 설치하시오 (https://www.anaconda.com/download)
